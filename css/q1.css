@@ -448,12 +448,15 @@ a:hover {
   fill: #fffff;
 }
 
-.cls-16,
 .cls-12,
 .cls-13,
 .cls-14 {
   font-size: 25px;
   font-family: var(--font-medium);
+}
+.cls-16 {
+  font-size: 25px;
+  font-family: var(--font-var);
 }
 
 .cls-10 {
