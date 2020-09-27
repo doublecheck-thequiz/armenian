@@ -424,14 +424,16 @@ a:hover {
   fill: #010101;
 }
 
-
-
-.cls-16,
 .cls-12,
 .cls-13,
 .cls-14 {
   font-size: 25px;
   font-family: var(--font-medium);
+}
+
+.cls-16 {
+  font-size: 25px;
+  font-family: bandeins_strangeregular;
 }
 
 .cls-10 {
