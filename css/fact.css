@@ -685,8 +685,8 @@ align-items: center;
 .buttons {
   width: 20%;
   float: right;
+  margin-left: -18rem;
   position: fixed;
-  left: 79%;
 }
 
 /* Transizione */
