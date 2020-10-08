@@ -18,6 +18,11 @@
   --font-var: bandeins_strangeSBdExfull;
   --font-varbold: bandeins_strangeBdExfull;
   --font-varhalf: bandeins_strangeBdExhalf;
+  --font-lightD: NotoSansDisplay-Light;
+  --font-regularD: NotoSansDisplay-Regular;
+  --font-boldD: NotoSansDisplay-Bold;
+  --font-mediumD: NotoSansDisplay-Medium;
+  --font-semiboldD: NotoSansDisplay-SemiBold;
 }
 
 p {
@@ -173,6 +178,76 @@ a:hover {
 @font-face {
     font-family: 'NotoSansArmenian-Medium';
     src: url('../css/fonts/NotoSansArmenian-Medium.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'NotoSansArmenian-Bold';
+    src: url('../css/fonts/NotoSansArmenian-Bold.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'NotoSansArmenian-Regular';
+    src: url('../css/fonts/NotoSansArmenian-Regular.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'NotoSansArmenian-SemiBold';
+    src: url('../css/fonts/NotoSansArmenian-SemiBold.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'NotoSansArmenian-Light';
+    src: url('../css/fonts/NotoSansArmenian-Light.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'NotoSansArmenian-Medium';
+    src: url('../css/fonts/NotoSansArmenian-Medium.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'NotoSansDisplay-Bold';
+    src: url('../css/fonts/NotoSansDisplay-Bold.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'NotoSansDisplay-Regular';
+    src: url('../css/fonts/NotoSansDisplay-Regular.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'NotoSansDisplay-SemiBold';
+    src: url('../css/fonts/NotoSansDisplay-SemiBold.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'NotoSansDisplay-Light';
+    src: url('../css/fonts/NotoSansDisplay-Light.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'NotoSansDisplay-Medium';
+    src: url('../css/fonts/NotoSansDisplay-Medium.ttf') format('truetype');
     font-weight: normal;
     font-style: normal;
 }
